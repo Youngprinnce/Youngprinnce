@@ -26,6 +26,6 @@
   </p>
   <br>
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=debdutgoswami&label=PROFILE+VIEWS" />
+    <img src="https://komarev.com/ghpvc/?username=youngprinnce&label=PROFILE+VIEWS" />
   </p>
 </p>
