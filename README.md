@@ -15,7 +15,7 @@
 
 ---
 
-I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.meetup.com/React-Ladies/">React Ladies</a>, a community for women and non-binary ReactJS developers.
+I'm a backend engineer who is passionate about developing feasible ideas from development stage to production, My passion has led me to believe coding is not just about writing working codes, it about writing clean, scalable, code that follow widely used pattern and architectural structure. I am interested in collaborating on projects and also contributing to open source. Some technologies I enjoy working with include ReactJS, NodeJS (JavaScript, APIs + Markup) MongoDB and GraphQL.
 
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
