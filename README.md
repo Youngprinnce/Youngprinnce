@@ -9,7 +9,7 @@
 - 💬 Ask me **something interesting**
 - 📫 How to reach me: **Anywhere you find me** 😉
 - 😄 Pronouns: **he**/**him**
-- ⚡ Fun fact: **Leave and breathe api**
+- ⚡ Fun fact: **I Live and breath api**
 
 <br>
 
