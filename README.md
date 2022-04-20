@@ -15,7 +15,7 @@
 
 ---
 
-I'm a backend engineer who is passionate about developing feasible ideas from development stage to production, My passion has led me to believe coding is not just about writing working codes, it about writing clean, scalable, code that follow widely used pattern and architectural structure. I am interested in collaborating on projects and also contributing to open source. Some technologies I enjoy working with include ReactJS, NodeJS (JavaScript, APIs + Markup) MongoDB and GraphQL.
+I'm a backend engineer who is passionate about developing feasible ideas from development stage to production, My passion has led me to believe coding is not just about writing working codes, it about writing clean, scalable, code that follow widely used pattern and architectural structure. I am interested in collaborating on projects and also contributing to open source. Some technologies I enjoy working with include ReactJS, NodeJS (JavaScript, APIs + Markup) MongoDB, Golang, Typescript, Python, Flask, and GraphQL.
 
 <p align="center">
   <i>Let's connect and chat! Open to anything under the sun.</i>
